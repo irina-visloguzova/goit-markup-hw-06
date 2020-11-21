@@ -613,7 +613,7 @@ p {
 }
 
 .footer-newslatter {
-  padding-top: 7px;
+  padding-top: 12px;
 }
 
 .footer-newslatter span {
@@ -621,6 +621,8 @@ p {
   margin-bottom: 20px;
   color: var(--white-cl);
   font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
   text-transform: uppercase;
 }
 
